@@ -6,6 +6,7 @@
   Numbers are clicked in sequence to match them.
   If all numbers are matched correctly in sequence, the "You Win" message is displayed.
   If time reaches zero or numbers are clicked in the wrong sequence, the "Game Over" message is displayed.
+  
 <b>Installation</b></br>
   Clone this repository to your computer or download it as a ZIP file.
   Open the downloaded folder and open the index.html file in a web browser to start the game.
