@@ -1,5 +1,5 @@
 
-Number Sequence Game
+Number Sequence Game </br>
   This simple web-based game allows users to have fun by matching numbers in a specific sequence. The goal of the game is to test quick thinking, focus, and reflexes.
 
 How to Play
