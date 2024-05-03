@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eee;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 500px;
+    height: 70vh;
+    margin: auto;
+}
+
+#timer {
+    font: 3em Arial;
+}
+
+#table {
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+td {
+    text-align: center;
+    font: 1.2em Arial;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #333;
+}
